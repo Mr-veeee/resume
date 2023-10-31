@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+}
+h1, h2 {
+  color: navy;
+}
+ul {
+  list-style-type: none;
+}
+.social-icons {
+  display: flex;
+  justify-content: space-between;
+}
+.github-icon {
+  font-family: "Font Awesome 5 Free";
+  font-size: 20px;
+  color: black;
+}
+.linkedin-icon {
+  font-family: "Font Awesome 5 Free";
+  font-size: 20px;
+  color: blue;
+}
